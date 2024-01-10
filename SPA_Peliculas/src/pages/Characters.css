@@ -1,0 +1,27 @@
+.character-table {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .table-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .table-row {
+    flex: 0 0 25%; /* 4 columnas */
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .table-cell {
+    margin-bottom: 10px;
+  }
+  
+  .character-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; /* Ajusta el comportamiento de la imagen */
+  }
+  
