@@ -1,4 +1,4 @@
-#Creado por: David Cantuña, Matías Padrón, Sebastián Torres. (Grupo 2)
+# Creado por: David Cantuña, Matías Padrón, Sebastián Torres. (Grupo 2)
 # React SPA con Vite
 
 Esta aplicación web cuenta con dos rutas principales: una para buscar películas y otra para mostrar algunos personajes, ambas obteniendo datos de API externas.
